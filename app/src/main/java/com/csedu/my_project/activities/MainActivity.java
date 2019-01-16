@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.Button;
 
 import com.csedu.my_project.R;
-import com.csedu.my_project.activities.userActivity;
+
 
 public class MainActivity extends Activity {
 
