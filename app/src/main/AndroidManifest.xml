@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".activities.userActivity" />
-        
+        <activity android:name=".activities.DeliverymanActivity"></activity>
     </application>
 
 </manifest>
